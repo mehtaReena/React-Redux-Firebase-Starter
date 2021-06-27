@@ -4,7 +4,7 @@
     font-family: 'Helvetica', sans-serif;
 }
 
-:root {
+/* :root {
     --primary-color: #C490E4;
     --bg-color: #F9F9F9;
     --shadow-button: 0 2px 2px #0000002e;
@@ -56,4 +56,4 @@ button[disabled], button[disabled]:hover {
 p.value {
     text-align: center;
     font-size: 32px;
-}
+} */
