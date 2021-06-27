@@ -76,9 +76,10 @@ h3{
   textarea {
 
     border-radius: 7px;
-    padding:6px;
+    padding: 10px 15px;
     height: fit-content;
     width: 90%;
+    border: 2px solid #DFDFDF;
     }
 
   .cardInfo{
@@ -237,9 +238,10 @@ select.option{
   justify-content: space-between;
   align-items: flex-start;
   width: 40%;
-  height: 35%;
+  height: 40%;
   background-color: white;
   border-radius: 12px;
+
 }
 .dialog-box .dialog-box-header {
   width: 100%;
@@ -258,7 +260,7 @@ select.option{
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  padding: 5px 10px;
+  padding-left: 20px;
   gap: 10px;
   width: 100%;
   flex: 1;
@@ -270,6 +272,7 @@ select.option{
   justify-content: center;
   align-items: center;
   gap: 5px;
+
 }
 
 .dialog-box .transaction-type {
@@ -279,6 +282,7 @@ select.option{
   margin-bottom: 10px;
   border-radius: 8px;
   padding: 5px 10px;
+  margin-left: 20px;
 }
 .row{
   display: flex;

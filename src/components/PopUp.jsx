@@ -75,7 +75,7 @@ function PopUp({ visible, selected, setVisible }) {
                             <label >Address :</label>
                             <textarea type="text" name="address" value={address}
                                 ref={addRef}
-                                rows="1"
+                                rows="3"
                                 onChange={(value) => onChange(value)} />
                                 <div className="row">
 

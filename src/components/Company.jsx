@@ -60,7 +60,7 @@ function Company(props) {
     <div>
         <button className="button" onClick={clickhandler}> ➕ save </button>
     </div>
-    <ToastContainer position="top-center" autoClose={2000} />
+    <ToastContainer position="top-center" autoClose={3000} />
 
 </div>
 
